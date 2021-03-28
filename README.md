@@ -24,3 +24,16 @@ A list of free resources for your web project such as images, videos, illustrati
 | Stocksy         |[link](https://www.stocksy.com/) |
 | Burst from Shopify | [link](https://burst.shopify.com/) |
 | Stock Vault     |[link](https://www.stockvault.net/) |
+| Freephotos      |[link](https://freephotos.cc/) |
+| Reshot          |[link](https://www.reshot.com/) |
+
+## Illustration
+|     Website     |     Link     |
+|-----------------|:------------:|
+| Drawkit         |[link](https://www.drawkit.io/) |  
+| Lukaszadam      |[link](https://lukaszadam.com/) |
+| Illustration    |[link](https://illlustrations.co/) |
+| Open Peeps      |[link](https://openpeeps.com/) |
+| Stubborn        |[link](https://stubborn.fun/) |
+| Humaaans        |[link](https://humaaans.com/) |
+| Smash           |[link](https://usesmash.com/) |
